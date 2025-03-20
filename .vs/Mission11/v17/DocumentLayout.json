@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hadle\\OneDrive\\Documents\\Junior Core Information Systems\\Winter 2025\\413 - Enterprise Application Development\\Mission11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1336E594-C39F-4E3A-B0C9-8A2EA38C0357}|backend\\Mission11.API\\Mission11.API.csproj|c:\\users\\hadle\\onedrive\\documents\\junior core information systems\\winter 2025\\413 - enterprise application development\\mission11\\backend\\mission11.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1336E594-C39F-4E3A-B0C9-8A2EA38C0357}|backend\\Mission11.API\\Mission11.API.csproj|solutionrelative:backend\\mission11.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1336E594-C39F-4E3A-B0C9-8A2EA38C0357}|backend\\Mission11.API\\Mission11.API.csproj|c:\\users\\hadle\\onedrive\\documents\\junior core information systems\\winter 2025\\413 - enterprise application development\\mission11\\backend\\mission11.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1336E594-C39F-4E3A-B0C9-8A2EA38C0357}|backend\\Mission11.API\\Mission11.API.csproj|solutionrelative:backend\\mission11.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1336E594-C39F-4E3A-B0C9-8A2EA38C0357}|backend\\Mission11.API\\Mission11.API.csproj|c:\\users\\hadle\\onedrive\\documents\\junior core information systems\\winter 2025\\413 - enterprise application development\\mission11\\backend\\mission11.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1336E594-C39F-4E3A-B0C9-8A2EA38C0357}|backend\\Mission11.API\\Mission11.API.csproj|solutionrelative:backend\\mission11.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1336E594-C39F-4E3A-B0C9-8A2EA38C0357}|backend\\Mission11.API\\Mission11.API.csproj|c:\\users\\hadle\\onedrive\\documents\\junior core information systems\\winter 2025\\413 - enterprise application development\\mission11\\backend\\mission11.api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1336E594-C39F-4E3A-B0C9-8A2EA38C0357}|backend\\Mission11.API\\Mission11.API.csproj|solutionrelative:backend\\mission11.api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1336E594-C39F-4E3A-B0C9-8A2EA38C0357}|backend\\Mission11.API\\Mission11.API.csproj|c:\\users\\hadle\\onedrive\\documents\\junior core information systems\\winter 2025\\413 - enterprise application development\\mission11\\backend\\mission11.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1336E594-C39F-4E3A-B0C9-8A2EA38C0357}|backend\\Mission11.API\\Mission11.API.csproj|solutionrelative:backend\\mission11.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1336E594-C39F-4E3A-B0C9-8A2EA38C0357}|backend\\Mission11.API\\Mission11.API.csproj|c:\\users\\hadle\\onedrive\\documents\\junior core information systems\\winter 2025\\413 - enterprise application development\\mission11\\backend\\mission11.api\\models\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1336E594-C39F-4E3A-B0C9-8A2EA38C0357}|backend\\Mission11.API\\Mission11.API.csproj|solutionrelative:backend\\mission11.api\\models\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hadle\\OneDrive\\Documents\\Junior Core Information Systems\\Winter 2025\\413 - Enterprise Application Development\\Mission11\\backend\\Mission11.API\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Mission11.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hadle\\OneDrive\\Documents\\Junior Core Information Systems\\Winter 2025\\413 - Enterprise Application Development\\Mission11\\backend\\Mission11.API\\Program.cs",
+              "RelativeToolTip": "backend\\Mission11.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:20:39.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\hadle\\OneDrive\\Documents\\Junior Core Information Systems\\Winter 2025\\413 - Enterprise Application Development\\Mission11\\backend\\Mission11.API\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "backend\\Mission11.API\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\hadle\\OneDrive\\Documents\\Junior Core Information Systems\\Winter 2025\\413 - Enterprise Application Development\\Mission11\\backend\\Mission11.API\\Models\\Book.cs",
+              "RelativeToolTip": "backend\\Mission11.API\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:35:24.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\hadle\\OneDrive\\Documents\\Junior Core Information Systems\\Winter 2025\\413 - Enterprise Application Development\\Mission11\\backend\\Mission11.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "backend\\Mission11.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\hadle\\OneDrive\\Documents\\Junior Core Information Systems\\Winter 2025\\413 - Enterprise Application Development\\Mission11\\backend\\Mission11.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "backend\\Mission11.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:38:10.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hadle\\OneDrive\\Documents\\Junior Core Information Systems\\Winter 2025\\413 - Enterprise Application Development\\Mission11\\backend\\Mission11.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\Mission11.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hadle\\OneDrive\\Documents\\Junior Core Information Systems\\Winter 2025\\413 - Enterprise Application Development\\Mission11\\backend\\Mission11.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\Mission11.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T20:50:00.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hadle\\OneDrive\\Documents\\Junior Core Information Systems\\Winter 2025\\413 - Enterprise Application Development\\Mission11\\backend\\Mission11.API\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\Mission11.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hadle\\OneDrive\\Documents\\Junior Core Information Systems\\Winter 2025\\413 - Enterprise Application Development\\Mission11\\backend\\Mission11.API\\appsettings.json",
+              "RelativeToolTip": "backend\\Mission11.API\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T20:20:01.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookstoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\hadle\\OneDrive\\Documents\\Junior Core Information Systems\\Winter 2025\\413 - Enterprise Application Development\\Mission11\\backend\\Mission11.API\\Models\\BookstoreContext.cs",
+              "RelativeDocumentMoniker": "backend\\Mission11.API\\Models\\BookstoreContext.cs",
+              "ToolTip": "C:\\Users\\hadle\\OneDrive\\Documents\\Junior Core Information Systems\\Winter 2025\\413 - Enterprise Application Development\\Mission11\\backend\\Mission11.API\\Models\\BookstoreContext.cs",
+              "RelativeToolTip": "backend\\Mission11.API\\Models\\BookstoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:21:00.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
