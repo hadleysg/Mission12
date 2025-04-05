@@ -1,6 +1,6 @@
 import { Book } from '../Book';
 
-const API_URL = 'http://localhost:5002/api/Books';
+const API_URL = 'https://mission13-garff-backend-gecpfhddgcdvbefw.eastus-01.azurewebsites.net/api/Books';
 
 export interface FetchBooksResponse {
   books: Book[];
